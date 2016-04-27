@@ -1,1 +1,2 @@
-nazdar
+nazdarKlonování existujícího repozitáøe
+Chcete-li vytvoøit kopii existujícího repozitáøe Git (napøíklad u projektu, do nìjž chcete zaèít pøispívat), pak pøíkazem, který hledáte, je git clone. Pokud jste zvyklí pracovat s jinými systémy pro správu verzí, jako je napøíklad Subversion, jistì jste si všimli, že pøíkaz zní clone, a nikoli checkout. Souvisí to s jedním podstatným rozdílem: Git získá kopii témìø všech dat na serveru. Po spuštìní pøíkazu git clone budou k historii projektu staženy všechny verze všech souborù. Pokud by nìkdy poté došlo k poruše disku serveru, lze použít libovolný z tìchto klonù na kterémkoli klientovi Klonování existujícího repozitáøe
