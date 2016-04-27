@@ -1,2 +1,4 @@
-nazdarKlonování existujícího repozitáøe
-Chcete-li vytvoøit kopii existujícího repozitáøe Git (napøíklad u projektu, do nìj chcete zaèít pøispívat), pak pøíkazem, kterı hledáte, je git clone. Pokud jste zvyklí pracovat s jinımi systémy pro správu verzí, jako je napøíklad Subversion, jistì jste si všimli, e pøíkaz zní clone, a nikoli checkout. Souvisí to s jedním podstatnım rozdílem: Git získá kopii témìø všech dat na serveru. Po spuštìní pøíkazu git clone budou k historii projektu staeny všechny verze všech souborù. Pokud by nìkdy poté došlo k poruše disku serveru, lze pouít libovolnı z tìchto klonù na kterémkoli klientovi Klonování existujícího repozitáøe
+Získání repozitáøe Git
+Projekt v systému Git lze získat dvìma základními zpùsoby. První zpùsob spoèívá v tom, e vezmeme existující projekt nebo adresáø a importujeme ho do systému Git. Druhı zpùsob spoèívá v naklonování ji existujícího repozitáøe Git z jiného serveru.
+
+Inicializace repozitáøe v existujícím adr
