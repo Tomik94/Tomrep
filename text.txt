@@ -1,3 +1,2 @@
-125 struènosti pøedstaví systém Git. Zaèneme od samého zaèátku. Nahlédneme do historie nástrojù ke správì verzí, poté se budeme vìnovat tomu, jak spustit systém Git ve vašem poèítaèi, a nakonec se podíváme na možnosti úvodního nastavení. V této kapitole se dozvíte, k èemu Git slouží a proè byste ho mìli používat. Kromì toho se také nauèíte, jak Git nastavit podle svých potøeb.
 
-prev | next
+125 struènosti pøedstaví systém Git. Zaèneme od samého zaèátku. Nahlédneme do historie nástrojù ke správì verzí, poté se budeme vìnovat tomu, jak spustit systém Git ve vašem poèítaèi, a nakonec se podíváme na možnosti úvodního nastavení. V této kapitole se dozvíte, k èemu Git slouží a proè byste ho mìli používat. Kromì toho se také nauèíte, jak Git nastavit podle svých potøeb.
