@@ -1,4 +1,3 @@
-Získání repozitáøe Git
-Projekt v systému Git lze získat dvìma základními zpùsoby. První zpùsob spoèívá v tom, že vezmeme existující projekt nebo adresáø a importujeme ho do systému Git. Druhý zpùsob spoèívá v naklonování již existujícího repozitáøe Git z jiného serveru.
+ struènosti pøedstaví systém Git. Zaèneme od samého zaèátku. Nahlédneme do historie nástrojù ke správì verzí, poté se budeme vìnovat tomu, jak spustit systém Git ve vašem poèítaèi, a nakonec se podíváme na možnosti úvodního nastavení. V této kapitole se dozvíte, k èemu Git slouží a proè byste ho mìli používat. Kromì toho se také nauèíte, jak Git nastavit podle svých potøeb.
 
-Inicializace repozitáøe v existujícím adr
+prev | next
